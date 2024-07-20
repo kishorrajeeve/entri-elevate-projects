@@ -1,1 +1,1 @@
-# entri-elevate-projects
+# python project
